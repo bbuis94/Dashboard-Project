@@ -1,0 +1,8 @@
+*.user
+build*
+*.autosave
+*~
+*.o
+ui_mainwindow.h
+*.csv
+*.app
