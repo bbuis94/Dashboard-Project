@@ -1,6 +1,6 @@
 # Dashboard-Project
 # Note: This application is developed for Windows 7 and up
-#installation and running instructions
+#Installation and running instructions
 1. Extract the contents of the compressed zip folder
 2. Double click on the Deployment directory to go to where the .exe file is
 3. Double click on the CS3307.exe executable in order to run the program
